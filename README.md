@@ -1,4 +1,4 @@
 # hello-world
-My first project in github
-Hello Github! THis is my first time to get here.
-This is a fantastic place. Have a nice day!
+My first project in github\n
+Hello Github! THis is my first time to get here.\n
+This is a fantastic place. Have a nice day!\n
